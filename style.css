@@ -1,0 +1,31 @@
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+.copy
+{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color: antiquewhite;
+    color: black;
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+body{
+    background: pink;
+}
+
+h1{
+    font-family: cursive;
+}
